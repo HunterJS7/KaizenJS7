@@ -2,7 +2,7 @@
 
 ###
 
-Currently working on my Cloud [Security Projects](https://github.com/KaizenJS7/Cloud-Security-Projects)
+Currently working on my [Cloud Security Projects](https://github.com/KaizenJS7/Cloud-Security-Projects)
  
 ###
 
