@@ -3,7 +3,8 @@
 ###
 
 Currently working on my [Cloud Security Projects](https://github.com/KaizenJS7/Cloud-Security-Projects)
- 
+Self-Taught Cybersecurity Enthusiast
+
 ###
 
 <img align="right" height="150" src="https://assets-v2.lottiefiles.com/a/a4fee38e-1170-11ee-bd48-5bbdf40b80f6/M4Tjthbqm3.gif"  />
