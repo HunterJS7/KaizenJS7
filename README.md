@@ -5,7 +5,7 @@
 -  Currently working on my [Cloud Security Projects](https://github.com/KaizenJS7/Cloud-Security-Projects)
 -  Self-Taught Cybersecurity Enthusiast
 
-<H2>Certification:</H2>
+<H2>Certifications:</H2>
 
 - Microsoft Certified: Security, Compliance, and Identity Fundamentals / SC-900
 - Google Cybersecurity
