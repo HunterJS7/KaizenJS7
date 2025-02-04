@@ -7,9 +7,6 @@
 
 ###
 <H1>Tech Stack<H1>
-<img align="right" height="150" src="https://assets-v2.lottiefiles.com/a/a4fee38e-1170-11ee-bd48-5bbdf40b80f6/M4Tjthbqm3.gif"  />
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
