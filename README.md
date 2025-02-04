@@ -4,9 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KaizenJS7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=KaizenJS7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
-
+ 
 ###
 
 <img align="right" height="150" src="https://assets-v2.lottiefiles.com/a/a4fee38e-1170-11ee-bd48-5bbdf40b80f6/M4Tjthbqm3.gif"  />
