@@ -6,7 +6,7 @@
 -  Self-Taught Cybersecurity Enthusiast
 
 ###
-<H1>Tech Stack<H1>
+<H1>Tech Stack:<H1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="30" alt="azure logo"  />
