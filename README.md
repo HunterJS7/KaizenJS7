@@ -6,7 +6,7 @@
 -  Self-Taught Cybersecurity Enthusiast
 
 ###
-<2h>Tech Stack<2h>
+<H2>Tech Stack<H2>
 
 <img align="right" height="150" src="https://assets-v2.lottiefiles.com/a/a4fee38e-1170-11ee-bd48-5bbdf40b80f6/M4Tjthbqm3.gif"  />
 
