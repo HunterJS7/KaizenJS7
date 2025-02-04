@@ -1,4 +1,4 @@
-<h2 align="left">My name is Jose Sanchez Jr and I'm an aspiring Cybersecurity Analyst more focused on Cloud Security!</h2>
+<h2 align="left">Hello World!, I'm Jose, a aspiring Cloud Security Engineer!</h2>
 
 ###
 
