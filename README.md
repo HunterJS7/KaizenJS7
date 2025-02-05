@@ -1,4 +1,4 @@
-<h2 align="left">Hello World!, I'm Jose, a aspiring Cloud Security Engineer!</h2>
+<h2 align="left">Hello World!, I'm Jose, an aspiring Cloud Security Engineer!</h2>
 
 ###
 
