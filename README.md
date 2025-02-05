@@ -7,7 +7,7 @@
 
 <H2>Certifications:</H2>
 
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals / SC-900
+- SC-900: Security, Compliance, and Identity Fundamentals 
 - Google Cybersecurity
 
 ###
