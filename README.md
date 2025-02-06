@@ -2,7 +2,7 @@
 
 ###
 
--  Currently working on [Cloud Security Projects](https://github.com/KaizenJS7/Cloud-Security-Projects) and [Cloud Security In-Depth Projects](https://github.com/KaizenJS7/Cloud-Security-In-Depth-Projects)
+-  Currently working on [Cloud Security Projects](https://github.com/KaizenJS7/Cloud-Security-Projects)
 -  Self-Taught Cybersecurity Enthusiast
 
 <H2>Certifications:</H2>
